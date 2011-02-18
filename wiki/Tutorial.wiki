@@ -16,4 +16,4 @@ The software tool uses public data collection provided by [http://www.caida.org/
 
 = Screeshots =
 
-[http://autonomous-system-relationship-map.googlecode.com/files/as-peer-graph-LU.svg Luxembourg AS map]
+[http://autonomous-system-relationship-map.googlecode.com/files/as-peer-graph-LU.svg]
