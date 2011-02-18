@@ -14,9 +14,6 @@ The software tool uses public data collection provided by [http://www.caida.org/
   * [http://as-rank.caida.org/?mode0=as-dump-peercones Relationship data]
   * [http://www.caida.org/data/request_user_info_forms/as_relationships.xml AS name to number mapping] 
 
-= Details =
+= Screeshots =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[http://autonomous-system-relationship-map.googlecode.com/files/as-peer-graph-LU.svg Luxembourg AS map]
